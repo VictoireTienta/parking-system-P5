@@ -1,0 +1,13 @@
+/Users/nana/Desktop/parking-system 2/src/main/java/com/parkit/parkingsystem/util/InputReaderUtil.java
+/Users/nana/Desktop/parking-system 2/src/main/java/com/parkit/parkingsystem/constants/Fare.java
+/Users/nana/Desktop/parking-system 2/src/main/java/com/parkit/parkingsystem/service/FareCalculatorService.java
+/Users/nana/Desktop/parking-system 2/src/main/java/com/parkit/parkingsystem/model/ParkingSpot.java
+/Users/nana/Desktop/parking-system 2/src/main/java/com/parkit/parkingsystem/service/ParkingService.java
+/Users/nana/Desktop/parking-system 2/src/main/java/com/parkit/parkingsystem/service/InteractiveShell.java
+/Users/nana/Desktop/parking-system 2/src/main/java/com/parkit/parkingsystem/constants/ParkingType.java
+/Users/nana/Desktop/parking-system 2/src/main/java/com/parkit/parkingsystem/config/DataBaseConfig.java
+/Users/nana/Desktop/parking-system 2/src/main/java/com/parkit/parkingsystem/constants/DBConstants.java
+/Users/nana/Desktop/parking-system 2/src/main/java/com/parkit/parkingsystem/dao/ParkingSpotDAO.java
+/Users/nana/Desktop/parking-system 2/src/main/java/com/parkit/parkingsystem/App.java
+/Users/nana/Desktop/parking-system 2/src/main/java/com/parkit/parkingsystem/dao/TicketDAO.java
+/Users/nana/Desktop/parking-system 2/src/main/java/com/parkit/parkingsystem/model/Ticket.java
